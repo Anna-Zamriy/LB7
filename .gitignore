@@ -1,0 +1,19 @@
+# Каталоги збірки та кешу CMake / Visual Studio
+out/
+build/
+.vs/
+CMakeSettings.json
+
+# Залежності vcpkg (встановлюються локально через vcpkg.json)
+vcpkg_installed/
+
+# Тимчасові файли та бінарники
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.log
+*.user
+*.suo

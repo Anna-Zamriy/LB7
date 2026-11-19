@@ -1,0 +1,8 @@
+{
+  "name": "numerical-diff-lab",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "gtest"
+  ],
+  "builtin-baseline": "2ebb714221ad4e482e596d64c129f63fbbfb3fd5"
+}
